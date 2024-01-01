@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.HtmlTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-11-22T01:42:54" hostname="tufts-wifi-10-5-1-227.eecs.tufts.edu" time="0.004">
+  <properties/>
+  <testcase name="empty" classname="jrails.HtmlTest" time="0.002"/>
+  <testcase name="test1" classname="jrails.HtmlTest" time="0.001"/>
+  <testcase name="test2" classname="jrails.HtmlTest" time="0.001"/>
+  <testcase name="test3" classname="jrails.HtmlTest" time="0.0"/>
+  <system-out><![CDATA[<p><strong>Hello</strong></p><div><strong>World</strong></div>
+<textarea name="w3schools">Review of W3Schools</textarea>
+<a href="/show?id=42">Show</a>
+<form action="/create" accept-charset="UTF-8" method="post"><p><strong>Hello</strong></p></form>
+<input type="submit" value="Save"/>
+<p>Hello</p><p>World</p>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

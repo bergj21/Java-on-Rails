@@ -1,0 +1,2 @@
+2,jrails.Foo,"Programming Languages: Build, Prove, and Compare","Norman Ramsey","999","true",
+3,jrails.Foo,"Programming Languages: Build, Prove, and Compare","Norman Ramsey","999","true",

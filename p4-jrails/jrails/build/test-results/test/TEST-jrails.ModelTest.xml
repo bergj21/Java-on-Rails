@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-22T01:42:54" hostname="tufts-wifi-10-5-1-227.eecs.tufts.edu" time="0.015">
+  <properties/>
+  <testcase name="newtest2" classname="jrails.ModelTest" time="0.015"/>
+  <system-out><![CDATA[[Programming Languages: Build, Prove, and Compare, Norman Ramsey, 999, true]
+true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
